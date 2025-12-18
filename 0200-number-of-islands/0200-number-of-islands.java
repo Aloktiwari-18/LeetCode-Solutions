@@ -9,7 +9,7 @@ class Solution {
             return;
 
         // mark visited
-        grid[i][j] = '1';
+        grid[i][j] = '0';
 
         // 4 directions
         dfs(i - 1, j, grid); // up
