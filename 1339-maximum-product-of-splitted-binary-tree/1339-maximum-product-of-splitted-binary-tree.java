@@ -19,10 +19,6 @@ class Solution {
     long totalSum = 0;
 
 
-    private long totalSum(TreeNode root) {
-        if (root == null) return 0;
-        return root.val + totalSum(root.left) + totalSum(root.right);
-    }
 
     private long findMax(TreeNode root) {
         if (root == null) return 0;
@@ -39,7 +35,7 @@ class Solution {
     }
 
     public int maxProduct(TreeNode root) {
-        totalSum = totalSum(root);
+        totalSum = findMax(root);
         findMax(root);
         return (int)(maxProduct % (1e9+7));
     }
