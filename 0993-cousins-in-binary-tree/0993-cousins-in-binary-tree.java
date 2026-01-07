@@ -55,9 +55,7 @@ class Solution {
                 return parentX != parentY;
             }
 
-            if (parentX != null || parentY != null) {
-                return false;
-            }
+            
         }
 
         return false;
