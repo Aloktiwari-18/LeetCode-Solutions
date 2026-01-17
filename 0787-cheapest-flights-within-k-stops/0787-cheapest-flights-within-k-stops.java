@@ -1,49 +1,64 @@
-import java.util.*;
+class Pair{
+    int first;
+    int second;
+    Pair(int _first, int _second){
+        this.first=_first;
+        this.second=_second;
+    }
+}
+
+class tuple{
+    int first;
+    int second;
+    int third;
+    tuple(int _first, int _second, int _third){
+        this.first=_first;
+        this.second=_second;
+        this.third= _third;
+    }
+}
+
 
 class Solution {
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
-
-        // Step 1: Build adjacency list
-        ArrayList<ArrayList<int[]>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) adj.add(new ArrayList<>());
-
-        for (int i = 0; i < flights.length; i++) {
-            int u = flights[i][0];
-            int v = flights[i][1];
-            int cost = flights[i][2];
-            adj.get(u).add(new int[]{v, cost});
+        ArrayList<ArrayList<Pair>> adj= new ArrayList<>();
+        for(int i=0;i<n;i++){
+            adj.add(new ArrayList<>());
+        }
+        for(int []e:flights){
+            adj.get(e[0]).add(new Pair((e[1]),e[2]));
         }
 
-        // Step 2: Cost array
-        int[] minCost = new int[n];
-        Arrays.fill(minCost, Integer.MAX_VALUE);
-        minCost[src] = 0;
-
-        // Step 3: Queue -> {currentCity, totalCost, stopsUsed}
-        Queue<int[]> queue = new LinkedList<>();
-        queue.offer(new int[]{src, 0, 0});
-
-        while (!queue.isEmpty()) {
-            int[] data = queue.poll();
-            int city = data[0];
-            int costSoFar = data[1];
-            int stopsUsed = data[2];
-
-            if (stopsUsed > k) continue;
-
-            for (int[] edge : adj.get(city)) {
-                int next = edge[0];
-                int price = edge[1];
-
-                int newCost = costSoFar + price;
-
-                if (newCost < minCost[next]) {
-                    minCost[next] = newCost;
-                    queue.offer(new int[]{next, newCost, stopsUsed + 1});
+        Queue<tuple> q= new LinkedList<>();
+        q.add(new tuple(0,src,0));
+        int dist[]= new int[n];
+        for(int i=0;i<n;i++){
+            dist[i]=Integer.MAX_VALUE;
+        }
+        dist[src]=0;
+        while(!q.isEmpty()){
+            tuple it=q.peek();
+            q.remove();
+            int stop= it.first;
+            int node= it.second;
+            int cost=it.third;
+            if(stop>k) continue;
+            for(Pair iter:adj.get(node)){
+                int adjNode=iter.first;
+                int edw=iter.second;
+                if(cost+edw<dist[adjNode] && stop<=k){
+                    dist[adjNode]=cost+edw;
+                    q.add(new tuple(stop+1,adjNode,cost+edw));
                 }
+                
+
             }
         }
+        if(dist[dst]==Integer.MAX_VALUE) return -1;
+        return dist[dst];
 
-        return minCost[dst] == Integer.MAX_VALUE ? -1 : minCost[dst];
+
+
+        
     }
 }
