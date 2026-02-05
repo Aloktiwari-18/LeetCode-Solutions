@@ -1,21 +1,21 @@
 class Solution {
-    public boolean isPerfact(int n){
-       int sqr=(int) Math.sqrt(n);
-       return (sqr*sqr==n);
+    public static boolean isPerfact(int n){
+        int sqr= (int)Math.sqrt(n);
+        return (sqr*sqr==n);
     }
-    public int minSquare(int n, int [] dp) {
-        if(isPerfact(n)) return 1;
-        if(dp[n]!=-1) return dp[n];
-        int min=Integer.MAX_VALUE;    
-        for(int i=1;i<=n/2;i++){
-            int count= minSquare(i,dp)+minSquare(n-i,dp);
-            min= Math.min(count ,min);
+    public int numSquares(int n) {
+        int dp[]= new int[n+1];
+        for(int i=1;i<=n;i++){
+            if(isPerfact(i)) dp[i]=1;
+            else{
+                int min=Integer.MAX_VALUE;
+                for(int j=1;j*j<=i;j++){
+                    int count= dp[j*j]+dp[i-j*j];
+                    min=Math.min(min,count);
+                }
+            dp[i]=min;
+            }
         }
-        return dp[n]=min;     
-    }
-    public int numSquares(int n){
-        int dp[]= new int [n+1];
-        Arrays.fill(dp,-1);
-        return minSquare(n, dp);
+        return dp[n];        
     }
 }
