@@ -13,44 +13,22 @@
  *     }
  * }
  */
-
-
 class Solution {
-    long total=0;
-    
-    private void findPath(TreeNode root, long currSum, int targetSum,HashMap<Long,Integer> hm){
-        
-        if(root==null) return;
-        currSum+=root.val;
-        
-        if(hm.containsKey(currSum-targetSum)){
-            total+=hm.get(currSum-targetSum);
+    public int pathSum(TreeNode root, int targetSum){
+        if(root==null){
+            return 0;
         }
-        hm.put(currSum, hm.getOrDefault(currSum,0)+1);
-
-        findPath(root.left, currSum, targetSum,hm);
-        findPath(root.right, currSum, targetSum,hm);
-        
-        hm.put(currSum, hm.get(currSum)-1);
-        return ;
-
+        int[] c = {0};
+        countPath(root, targetSum,c);
+        c[0]+=pathSum(root.left, targetSum);
+        c[0]+=pathSum(root.right, targetSum);
+        return c[0];
     }
-    
-    public int pathSum(TreeNode root, int targetSum) {
-        total=0;
-
-        if(root==null) return 0;
-
-        HashMap<Long,Integer> hm= new HashMap<>();
-        hm.put(0L,1);
-        findPath( root, 0, targetSum ,hm);
-        return (int)total;
-
-    
-       
-
-        
-        
-        
+    public void countPath(TreeNode root, long targetSum, int[] c) {
+        if(root==null) return;
+        targetSum-=root.val;
+        if(targetSum==0) c[0]++;
+        countPath(root.left, targetSum,c);
+        countPath(root.right,targetSum,c);
     }
 }
