@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -19,5 +20,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
