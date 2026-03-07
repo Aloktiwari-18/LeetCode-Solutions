@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +57,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
