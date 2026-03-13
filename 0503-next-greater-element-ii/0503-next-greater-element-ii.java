@@ -1,27 +1,21 @@
-import java.util.Arrays;
-import java.util.Stack;
-
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
-        int n = nums.length;
-        int[] ans = new int[n];
-        Arrays.fill(ans, -1);
+        int n=nums.length;
+        Stack<Integer> st= new Stack<>();
 
-        Stack<Integer> st = new Stack<>(); // store indices
-
-        // iterate 2*n times to simulate circular array
-        for (int i = 0; i < 2 * n; i++) {
-            int cur = nums[i % n];
-
-            // while current value is greater than value at index on stack
-            while (!st.isEmpty() && nums[st.peek()] < cur) {
-                ans[st.pop()] = cur;
-            }
-
-            // push index only during first pass
-            if (i < n) st.push(i);
+        for(int i=n-1;i>=0;i--){
+            st.push(nums[i]);
+             
         }
-
-        return ans;
+        int nge[]= new int [n];
+        for(int i=n-1;i>=0;i--){
+            while( st.size()>0 && nums[i]>=st.peek()) st.pop();
+            if(st.size()==0) nge[i]=-1;
+            if( st.size()>0 && nums[i]<st.peek()) nge[i]=st.peek();
+            st.push(nums[i]);
+        }
+return nge;
+         
+        
     }
 }
