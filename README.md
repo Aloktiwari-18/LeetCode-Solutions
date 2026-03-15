@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -137,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
