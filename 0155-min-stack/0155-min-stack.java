@@ -16,11 +16,11 @@ class MinStack {
     }
     
     public void pop() {
-        int ele1=st.pop();
-        int ele2=min.peek();
-        if(ele1==ele2){
-            min.pop();
-        }
+        min.pop();
+        st.pop();
+
+
+
         
     }
     
