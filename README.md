@@ -148,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1075-project-employees-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1075-project-employees-i/) | Easy |
 <!---LeetCode Topics End-->
