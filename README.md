@@ -152,4 +152,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1075-project-employees-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1075-project-employees-i/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 <!---LeetCode Topics End-->
