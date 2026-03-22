@@ -154,4 +154,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1075-project-employees-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
