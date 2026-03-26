@@ -1,36 +1,38 @@
 class Solution {
+    public long hours(int speed,int [] piles){
+        long h=0;
+        for(int ele:piles){
+            if(ele % speed==0) h+=ele/speed;
+            else h+=(ele/speed)+1;
 
-    public static long eatMin(int[] arr, int banana) {
-        long target = 0;
-        for (int i = 0; i < arr.length; i++) {
-            long hrs = (arr[i] + banana - 1L) / banana; 
-            target += hrs;
         }
-        return target;
+        return h;
+
+
+
     }
-
     public int minEatingSpeed(int[] piles, int h) {
-        int max = Integer.MIN_VALUE;
-        for (int num : piles) {
-            max = Math.max(max, num);
+        int n= piles.length;
+       int  hrs=0;
+
+        int max= Integer.MIN_VALUE;
+        for(int ele: piles){
+            max=Math.max(ele, max);
         }
-
-        int left = 1;
-        int right = max;
-        int ans = max;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            long time = eatMin(piles, mid);
-
-            if (time <= h) {
-                ans = mid;       
-                right = mid - 1; 
-            } else {
-                left = mid + 1;  
+        int low= 1;
+        int high= max;
+        int ans=max;
+        while(low<=high){
+            int mid= low+(high-low)/2;
+            if(hours(mid,piles)<=h){
+                high= mid-1;
+                ans=mid;
             }
+            else low= mid+1;
         }
-
         return ans;
+
+
+        
     }
 }
