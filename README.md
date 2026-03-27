@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0176-second-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [1075-project-employees-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
