@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [1075-project-employees-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
