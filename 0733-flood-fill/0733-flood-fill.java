@@ -7,7 +7,9 @@ class Solution {
         }
         image[sr][sc]= color;
         dfs(image,sr+1,sc,color, oldColor);
-        dfs(image,sr+1,sc,color, oldColor);
+        dfs(image,sr,sc+1,color, oldColor);
+        dfs(image,sr,sc-1,color, oldColor);
+        dfs(image,sr-1,sc,color, oldColor);
 
 
     }
