@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -179,5 +180,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
