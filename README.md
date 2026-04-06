@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0072-edit-distance](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 ## Hash Table
