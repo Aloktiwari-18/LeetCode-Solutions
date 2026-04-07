@@ -1,38 +1,19 @@
 class Solution {
-
+    public boolean isValid(int[][] grid,int r,int c,int n,int currVal){
+        if(r<0 || c<0 || r>=n || c>=n || grid[r][c] != currVal )return false;
+        if(currVal == n*n-1)return true;
+    
+    boolean move1=isValid(grid,r-1,c-2,n,currVal+1);
+    boolean move2=isValid(grid,r-2,c-1,n,currVal+1);
+    boolean move3=isValid(grid,r-1,c+2,n,currVal+1);
+    boolean move4=isValid(grid,r-2,c+1,n,currVal+1);
+    boolean move5=isValid(grid,r+1,c+2,n,currVal+1);
+    boolean move6=isValid(grid,r+2,c+1,n,currVal+1);
+    boolean move7=isValid(grid,r+2,c-1,n,currVal+1);
+    boolean move8=isValid(grid,r+1,c-2,n,currVal+1);
+    return move1 || move2 || move3 || move4 ||move5||move6|| move7||move8;
+    }
     public boolean checkValidGrid(int[][] grid) {
-
-        int n = grid.length;
-
-        if(grid[0][0] != 0) return false;
-
-        int x = 0, y = 0;
-
-        for(int move = 1; move < n * n; move++){
-
-            boolean found = false;
-
-            // check all 8 moves
-            int[] dx = {2,2,-2,-2,1,1,-1,-1};
-            int[] dy = {1,-1,1,-1,2,-2,2,-2};
-
-            for(int k = 0; k < 8; k++){
-                int nx = x + dx[k];
-                int ny = y + dy[k];
-
-                if(nx >= 0 && ny >= 0 && nx < n && ny < n 
-                   && grid[nx][ny] == move){
-                    
-                    x = nx;
-                    y = ny;
-                    found = true;
-                    break;
-                }
-            }
-
-            if(!found) return false;
-        }
-
-        return true;
+       return isValid(grid,0,0,grid.length,0); 
     }
 }
