@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [2596-check-knight-tour-configuration](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [1219-path-with-maximum-gold](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
