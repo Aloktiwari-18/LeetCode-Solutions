@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1174-immediate-food-delivery-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1729-find-followers-count](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1729-find-followers-count/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
