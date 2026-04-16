@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0619-biggest-single-number/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1075-project-employees-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
