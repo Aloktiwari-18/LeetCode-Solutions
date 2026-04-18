@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
+| [3783-mirror-distance-of-an-integer](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
