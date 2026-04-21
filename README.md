@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0196-delete-duplicate-emails](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
