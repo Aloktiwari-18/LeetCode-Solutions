@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0184-department-highest-salary](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0197-rising-temperature](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0550-game-play-analysis-iv](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0608-tree-node](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0608-tree-node/) | Medium |
