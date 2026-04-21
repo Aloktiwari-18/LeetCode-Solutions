@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1341-movie-rating](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1341-movie-rating/) | Medium |
 | [1407-top-travellers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1407-top-travellers/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1729-find-followers-count](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
