@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0610-triangle-judgement](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0626-exchange-seats/) | Medium |
+| [0627-swap-sex-of-employees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1075-project-employees-i/) | Easy |
