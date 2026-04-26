@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0550-game-play-analysis-iv/) | Medium |
+| [0585-investments-in-2016](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
