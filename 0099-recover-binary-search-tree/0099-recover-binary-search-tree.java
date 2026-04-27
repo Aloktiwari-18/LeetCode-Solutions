@@ -14,45 +14,28 @@
  * }
  */
 class Solution {
-    private TreeNode first;// first violation
-    private TreeNode prev;// last guy in the inorder
-    private TreeNode middle;// adjacent of first violation
-    private TreeNode last;//second violation 
-
-    private void inorder(TreeNode root){
-        if(root==null) return ;
-        inorder(root.left);
-        if(prev!=null && (root.val<prev.val)){
-            // if this is a first violation, mark these two nodes as " first" and "middle"
-            if(first==null){
-                first=prev;
-                middle=root;
-                // if this is a second violation mark this node as last
-            }else{
-                last=root;
-            }
-        }
-
-// mark this node as previous
-prev=root;
-inorder(root.right);
-
-
-    }
-    public void recoverTree(TreeNode root) {
-        first=middle=last=null;
-        prev= new TreeNode(Integer.MIN_VALUE);
+    public TreeNode prev=null;
+    public TreeNode first=null;
+    public TreeNode second= null;
+    public void recoverTree(TreeNode root){
         inorder(root);
-        if(first!=null && last!=null){
-            int t= first.val;
-            first.val=last.val;
-            last.val=t;
-        } else if(first !=null && middle!=null ){
-            int t= first.val;
-            first.val=middle.val;
-            middle.val=t;
+        int temp = first.val;
+        first.val = second.val;
+        second.val = temp;
+    }
 
+    public void inorder(TreeNode root) {
+        if(root==null) return;
+        inorder(root.left);
+        if(prev!=null && prev.val>root.val){
+            if(first==null) {
+                first=prev;
+            }
+            second=root;
         }
+        prev= root;
+        inorder(root.right);
+
         
     }
 }
