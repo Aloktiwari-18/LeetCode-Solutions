@@ -14,8 +14,24 @@
  * }
  */
 class Solution {
+    int count=0;
+    int ans=0;
+    public void calculate(TreeNode root, int k){
+        if(root==null){
+            return;
+        }
+
+        calculate(root.left, k);
+        count=count+1;
+        if(count==k){
+            ans= root.val;
+        }
+        calculate(root.right, k);
+        
+    }
     public int kthSmallest(TreeNode root, int k) {
-        return k;
+        calculate(root, k);
+        return ans;
         
         
     }
