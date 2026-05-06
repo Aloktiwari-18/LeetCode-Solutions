@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1517-find-users-with-valid-e-mails](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1667-fix-names-in-a-table/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
