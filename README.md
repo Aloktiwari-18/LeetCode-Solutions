@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3220-odd-and-even-transactions](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3374-first-letter-capitalization-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3374-first-letter-capitalization-ii/) | Hard |
 | [3436-find-valid-emails](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3436-find-valid-emails/) | Easy |
+| [3570-find-books-with-no-available-copies](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
