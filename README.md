@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
