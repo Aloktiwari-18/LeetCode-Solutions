@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0072-edit-distance](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Counting
