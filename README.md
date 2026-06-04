@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0460-lfu-cache](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Counting
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0460-lfu-cache](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0460-lfu-cache](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,4 +337,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
