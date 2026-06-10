@@ -1,13 +1,14 @@
 # Write your MySQL query statement below
 with ranked as (
-    Select Department.name as Department ,
-    Employee.name as Employee,
-    Employee.salary as salary,
+    Select Department.name as Department , Employee.name as Employee , Employee.salary as Salary,
 
-    DENSE_RANK() over (  PARTITION BY Employee.departmentId order by salary desc)as rnk
-    from Employee 
-    join Department on Employee.departmentId=  Department.id
+    dense_rank()over ( partition by Employee.departmentId order by Employee.salary desc) as rnk
+    from Employee
+    join Department on  Department.id = Employee.departmentId
 )
-Select Department , Employee, salary from ranked
-where rnk=1
 
+
+Select Department , Employee , Salary
+from ranked 
+
+where rnk =1
