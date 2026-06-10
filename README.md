@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0174-dungeon-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0189-rotate-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0165-compare-version-numbers/) | Medium |
+| [0189-rotate-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0189-rotate-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
