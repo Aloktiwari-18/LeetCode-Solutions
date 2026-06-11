@@ -1,13 +1,15 @@
 # Write your MySQL query statement below
-WITH temp AS(
-SELECT visited_on,
-SUM(amount) amount
-FROM Customer
-GROUP BY visited_on)
+with temp as(
+    Select visited_on,
+    sum(amount) amount
+    from Customer
+    group by visited_on
 
-SELECT visited_on,
-SUM(amount) OVER (ORDER BY visited_on ROWS 6 PRECEDING) amount,
-ROUND(AVG(amount) OVER (ORDER BY visited_on ROWS 6 PRECEDING),2) average_amount
-FROM temp
-ORDER BY visited_on
+)
+Select visited_on,
+sum(amount) over (order by visited_on rows 6 PRECEDING) amount,
+Round(AVg(amount) over (order by visited_on rows 6 PRECEDING),2) average_amount
+
+from temp
+order by visited_on
 limit 100 offset 6
