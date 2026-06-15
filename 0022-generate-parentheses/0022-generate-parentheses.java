@@ -4,16 +4,14 @@ class Solution {
         if(temp.length()==2*n){
             ans.add(temp.toString());
         }
-        if(open<n){
+        
             temp.append("(");
             f(n, temp, open+1, close, ans );
             temp.deleteCharAt(temp.length()-1);
-        }
-        if(close<open){
             temp.append(")");
             f(n, temp, open, close+1, ans );
             temp.deleteCharAt(temp.length()-1);
-        }
+        
     }
     public List<String> generateParenthesis(int n) {
         List<String> ans= new ArrayList<>();
