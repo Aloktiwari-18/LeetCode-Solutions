@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0078-subsets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0046-permutations](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
