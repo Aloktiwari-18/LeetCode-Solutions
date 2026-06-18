@@ -24,7 +24,7 @@ class StockSpanner {
         
             st.push( new Pair(price,span1));
         
-        return st.peek().span1;
+        return span1;
 
         
     }
