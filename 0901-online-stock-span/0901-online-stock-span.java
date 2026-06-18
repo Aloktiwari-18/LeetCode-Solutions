@@ -1,33 +1,32 @@
 class StockSpanner {
+    class Pair{
+        int price1;
+        int span1;
 
-    static class Pair {
-        int price;
-        int span;
-        Pair(int price, int span) {
-            this.price = price;
-            this.span = span;
+        Pair( int price1,int span1){
+            
+            this.price1= price1;
+            this.span1=span1;
         }
     }
-
     Stack<Pair> st;
 
     public StockSpanner() {
-        st = new Stack<>();
+        st=new Stack<>();
     }
     
     public int next(int price) {
-        int span = 1;
-
-        // Jab tak stack ka top price <= current price hai, span add karte jao
-        while(!st.isEmpty() && st.peek().price <= price){
-            span += st.peek().span;
+        int span1=1;
+        while(st.size()!=0 && st.peek().price1<=price){
+            span1+=st.peek().span1;
             st.pop();
         }
+        
+            st.push( new Pair(price,span1));
+        
+        return st.peek().span1;
 
-        // Push current price with its span
-        st.push(new Pair(price, span));
-
-        return span;
+        
     }
 }
 
