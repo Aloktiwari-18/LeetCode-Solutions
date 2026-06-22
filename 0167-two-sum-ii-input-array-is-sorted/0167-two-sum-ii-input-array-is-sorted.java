@@ -16,7 +16,7 @@ class Solution {
                 st++;
             }
         }
-        return ans;
+        return new int[]{0,0};
         
     }
 }
