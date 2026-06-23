@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0608-tree-node](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0608-tree-node/) | Medium |
 | [0610-triangle-judgement](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
