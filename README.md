@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -354,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0174-dungeon-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0289-game-of-life](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0289-game-of-life/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [1219-path-with-maximum-gold](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -414,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0912-sort-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
