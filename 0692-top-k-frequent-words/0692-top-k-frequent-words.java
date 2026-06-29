@@ -1,4 +1,4 @@
-class Pair{
+class Pair implements Comparable<Pair>{
     int count;
     String word;
     Pair(int count, String word){
@@ -7,6 +7,13 @@ class Pair{
         this.word= word;
         
     }
+    public int compareTo(Pair p){
+        if(count==p.count){
+            return word.compareTo(p.word);
+
+        }
+        return p.count-count;
+    }
 }
 
 class Solution {
@@ -14,11 +21,7 @@ class Solution {
     public List<String> topKFrequent(String[] words, int k) {
         ArrayList<String> res= new ArrayList<>();
 
-        PriorityQueue<Pair> pq= new PriorityQueue<>((a,b)->{
-            if(a.count==b.count)
-                return a.word.compareTo(b.word);
-            return b.count- a.count;
-        });
+        PriorityQueue<Pair> pq= new PriorityQueue<>();
 
         HashMap<String ,Integer> map= new HashMap<>();
         for(String s: words){
