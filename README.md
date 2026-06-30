@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0724-find-pivot-index](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
