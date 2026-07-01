@@ -10,7 +10,7 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             sum += nums[i];
 
-            int r = (k == 0) ? sum : sum % k;
+            int r =  sum % k;
 
             if (map.containsKey(r)) {
                 if(i-map.get(r)>=2){
