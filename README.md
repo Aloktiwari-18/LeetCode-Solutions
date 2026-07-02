@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0456-132-pattern](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0456-132-pattern](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0456-132-pattern](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0901-online-stock-span](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0456-132-pattern](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -491,4 +495,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0648-replace-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
