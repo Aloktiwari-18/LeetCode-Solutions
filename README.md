@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0118-pascals-triangle](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0075-sort-colors](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
