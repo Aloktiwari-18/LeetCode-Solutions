@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
