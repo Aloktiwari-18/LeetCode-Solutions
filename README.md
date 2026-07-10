@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0456-132-pattern](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
+| [0495-teemo-attacking](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0289-game-of-life](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0289-game-of-life/) | Medium |
+| [0495-teemo-attacking](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0682-baseball-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
