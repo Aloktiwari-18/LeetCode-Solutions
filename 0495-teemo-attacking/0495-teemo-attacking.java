@@ -1,6 +1,7 @@
 class Solution {
     public int findPoisonedDuration(int[] time, int duration) {
         int n=time.length;
+        if(time.length==0 || time==null || duration==0) return 0;
         int tot=0;
         for(int i=0;i<n-1;i++){
             int gap= time[i+1]-time[i];
