@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0456-132-pattern](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0495-teemo-attacking](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0495-teemo-attacking/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0460-lfu-cache](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0456-132-pattern](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0901-online-stock-span](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
@@ -351,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0456-132-pattern](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
