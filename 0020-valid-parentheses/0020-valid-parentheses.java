@@ -1,28 +1,23 @@
 class Solution {
     public boolean isValid(String s) {
-        if (s.length() % 2 != 0) return false;
-        return check(s, 0, new StringBuilder());
-    }
+        int n= s.length();
+        Stack<Character> st= new Stack<>();
 
-    private boolean check(String s, int i, StringBuilder stack) {
-        if (i == s.length()) return stack.length() == 0;
-
-        char c = s.charAt(i);
-
-        if (c == '(' || c == '{' || c == '[') {
-            stack.append(c);
-            return check(s, i + 1, stack);
-        } else {
-            if (stack.length() == 0) return false;
-            char top = stack.charAt(stack.length() - 1);
-            if ((c == ')' && top == '(') ||
-                (c == '}' && top == '{') ||
-                (c == ']' && top == '[')) {
-                stack.deleteCharAt(stack.length() - 1);
-                return check(s, i + 1, stack);
-            } else {
+        for(int i=0;i<n;i++){
+            char ch= s.charAt(i);
+            if(st.size()==0 && (ch=='}' || ch==']' || ch==')')){
                 return false;
             }
+            else if(st.size()==0){
+                st.push(ch);
+            }
+            else if(st.size()!=0 && ((st.peek()=='(' && ch==')') || (st.peek()=='{' && ch=='}') || (st.peek()=='[' && ch==']'))) {
+                st.pop();
+            }else{
+                st.push(ch);
+            }
         }
+        return st.size()==0;
+        
     }
 }
