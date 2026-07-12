@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-shortest-common-supersequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Simulation
