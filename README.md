@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0165-compare-version-numbers/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0648-replace-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0460-lfu-cache](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
@@ -377,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Database
