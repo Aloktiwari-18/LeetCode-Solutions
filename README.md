@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3169-count-days-without-meetings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3169-count-days-without-meetings/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2596-check-knight-tour-configuration](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
