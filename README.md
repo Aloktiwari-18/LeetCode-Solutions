@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1720-decode-xored-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -525,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1720-decode-xored-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
