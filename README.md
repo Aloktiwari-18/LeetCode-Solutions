@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3169-count-days-without-meetings/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-finding-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -661,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1291-sequential-digits](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
