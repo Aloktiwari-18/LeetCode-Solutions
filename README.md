@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3169-count-days-without-meetings/) | Medium |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2063-vowels-of-all-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Tree
