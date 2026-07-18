@@ -586,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2595-number-of-even-and-odd-bits](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
