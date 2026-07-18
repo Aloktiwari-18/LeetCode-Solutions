@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
