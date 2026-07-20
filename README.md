@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1331-rank-transform-of-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
