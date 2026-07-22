@@ -15,27 +15,30 @@
  */
 class Solution {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
-        Queue<TreeNode> q= new LinkedList<>();
-        List<List<Integer>> wrapList= new LinkedList<List<Integer>>();
-       
-        if (root==null) return wrapList;
-
-        q.add(root);
+        List<List<Integer>> ans=new ArrayList<>();
+        Queue<TreeNode> q=new LinkedList<>();
+        if(root== null) return ans;
+        q.offer(root);
         while(!q.isEmpty()){
-            int levelNum= q.size();
-            List<Integer> subList= new LinkedList<>();
-            for(int i=0;i<levelNum;i++){
-                if(q.peek().left!=null) q.add(q.peek().left);
-                if(q.peek().right!=null) q.add(q.peek().right);
-                subList.add(q.poll().val);
+            int size= q.size();
+            List<Integer> subAns= new ArrayList<>();
+            // System.out.print(q.size());
+            for(int i=0;i<size;i++){
 
+                TreeNode root1= q.poll();
+                if(root1.left!=null) q.offer(root1.left);
+                if(root1.right!=null) q.offer(root1.right);
+
+                subAns.add(root1.val);
+                for(int j=0;j<subAns.size();j++){
+                    System.out.print(subAns.get(j)+" ");
+                }
+                System.out.println();
             }
-            wrapList.add(subList);
+            ans.add(0,subAns);
         }
-       Collections.reverse(wrapList);
-       return wrapList;
-
-
+       return ans;
+       
         
     }
 }
