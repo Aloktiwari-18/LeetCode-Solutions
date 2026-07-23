@@ -36,16 +36,15 @@ class Solution {
             int min=q.peek().num;
 
             for(int i=0;i<size;i++){
-                
-                TreeNode node1= q.peek().node;
-                int currId= q.peek().num;
-                q.poll();
+                Pair nodes= q.poll();
+                TreeNode node= nodes.node;
+                int currId= nodes.num;
 
 
                 if(i==0) f=currId;
                 if(i==size-1) l=currId;
-                if(node1.left!=null) q.add(new Pair(node1.left, 2*currId+1));
-                if(node1.right!=null) q.add(new Pair(node1.right, 2*currId+2));
+                if(node.left!=null) q.add(new Pair(node.left, 2*currId+1));
+                if(node.right!=null) q.add(new Pair(node.right, 2*currId+2));
             }
             ans=Math.max(ans, l-f+1);
 
