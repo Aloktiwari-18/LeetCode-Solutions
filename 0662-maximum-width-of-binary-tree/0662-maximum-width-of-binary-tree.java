@@ -13,42 +13,44 @@
  *     }
  * }
  */
+
  class Pair{
+
     TreeNode node;
     int num;
-    public Pair(TreeNode _node,int _num){
-        node=_node;
-        num=_num;
+    Pair(TreeNode node, int num){
+        this.node= node;
+        this.num= num;
     }
  }
-
 class Solution {
     public int widthOfBinaryTree(TreeNode root) {
-        if(root==null) return 0;
         int ans=0;
-        Queue<Pair> qu= new LinkedList<>();
-        qu.offer(new Pair(root,0));
-        while(!qu.isEmpty()){
-            int size=qu.size();
-            int mmin=qu.peek().num;
-            int first=0;
-            int last=0;
-            for(int i=0;i<size;i++){
-                int cur_id= qu.peek().num-mmin;
-                TreeNode node=qu.peek().node;
-                qu.poll();
-                if(i==0) first=cur_id;
-                if(i==size-1) last=cur_id;
+        if(root==null) return 0;
+        Queue<Pair> q= new LinkedList<>();
+        q.add(new Pair(root,0));
+        while(q.size()>0){
+            int size=q.size();
+            int f=0;
+            int l=0;
+            int min=q.peek().num;
 
-                if(node.left!=null) qu.offer(new Pair(node.left,cur_id*2+1)); 
-                if(node.right!=null) qu.offer(new Pair(node.right,cur_id*2+2));
+            for(int i=0;i<size;i++){
+                
+                TreeNode node1= q.peek().node;
+                int currId= q.peek().num;
+                q.poll();
+
+
+                if(i==0) f=currId;
+                if(i==size-1) l=currId;
+                if(node1.left!=null) q.add(new Pair(node1.left, 2*currId+1));
+                if(node1.right!=null) q.add(new Pair(node1.right, 2*currId+2));
             }
-            ans=Math.max(ans,last-first+1);
+            ans=Math.max(ans, l-f+1);
 
         }
-        return ans;
-         
-      
+         return ans;
         
     }
 }
