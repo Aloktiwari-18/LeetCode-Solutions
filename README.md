@@ -530,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1693-daily-leads-and-partners](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1795-rearrange-products-table/) | Easy |
 | [1907-count-salary-categories](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1907-count-salary-categories/) | Medium |
