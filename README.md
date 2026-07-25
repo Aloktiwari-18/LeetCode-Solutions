@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-find-triangular-sum-of-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [3169-count-days-without-meetings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3169-count-days-without-meetings/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
