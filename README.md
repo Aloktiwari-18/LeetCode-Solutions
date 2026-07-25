@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -617,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
