@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 with filterd as (
-    Select Activity.player_id , Activity.event_date, min(Activity.event_date) as first_date
+    Select Activity.player_id ,min(Activity.event_date) as first_date
     from Activity 
     group by Activity.player_id
 )
