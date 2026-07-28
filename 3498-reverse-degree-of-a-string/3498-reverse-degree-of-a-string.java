@@ -3,7 +3,7 @@ class Solution {
         int sum=0;
         for(int i=0;i<s.length();i++){
             int n= 26- Math.abs(s.charAt(i)-'a');
-            System.out.println(n);
+            
               n=n*(i+1);
                sum+=n;
         }
