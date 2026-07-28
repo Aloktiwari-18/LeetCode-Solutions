@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3110-score-of-a-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
