@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
+| [3110-score-of-a-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
