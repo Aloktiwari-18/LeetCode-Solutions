@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2446-determine-if-two-events-have-conflict](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3110-score-of-a-string/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [3146-permutation-difference-between-two-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
