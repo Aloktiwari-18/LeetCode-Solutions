@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0164-maximum-gap](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0174-dungeon-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0164-maximum-gap](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -734,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -762,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
