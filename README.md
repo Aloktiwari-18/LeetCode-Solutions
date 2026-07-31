@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Math
@@ -492,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
