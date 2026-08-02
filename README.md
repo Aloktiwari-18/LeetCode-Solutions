@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0832-flipping-an-image](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+| [0877-stone-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0877-stone-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
@@ -815,4 +818,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
