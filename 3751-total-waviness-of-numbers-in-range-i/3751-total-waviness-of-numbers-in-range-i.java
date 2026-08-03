@@ -1,17 +1,22 @@
 class Solution {
      int cnt=0;
-    public void helper(int num1, int num2){
-        if(num1>num2){
-            return ;
+    public int helper(int curr, int num2, int []dp){
+        if(curr>num2){
+            return 0;
         }
-        String s= String.valueOf(num1);
+
+        if(dp[curr]!=Integer.MIN_VALUE){
+            return dp[curr];
+        }
+        int cnt=0;
+        String s= String.valueOf(curr);
         for(int i=1;i<s.length()-1;i++){
            if(s.charAt(i)>s.charAt(i-1) && s.charAt(i)>s.charAt(i+1) 
                  || s.charAt(i)<s.charAt(i-1) && s.charAt(i)<s.charAt(i+1)){
                      cnt++;
                  }
         }
-        helper(num1+1, num2);
+        return dp[curr]=cnt+helper(curr+1, num2, dp);
     }
     public int totalWaviness(int num1, int num2) {
     //     int cnt=0;
@@ -27,9 +32,10 @@ class Solution {
     //    }
     //    return cnt;
    
-
-     helper(num1, num2);
-     return cnt;
+    int dp[]= new int[num2+1];
+    Arrays.fill(dp, Integer.MIN_VALUE);
+    return  helper(num1, num2,dp);
+     
         
     }
 }
