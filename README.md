@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0877-stone-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -539,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0342-power-of-four](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -829,4 +833,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 <!---LeetCode Topics End-->
