@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
