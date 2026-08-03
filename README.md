@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -816,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
