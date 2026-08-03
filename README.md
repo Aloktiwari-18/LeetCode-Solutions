@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1406-stone-game-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1641-count-sorted-vowel-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1641-count-sorted-vowel-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
@@ -779,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Data Stream
