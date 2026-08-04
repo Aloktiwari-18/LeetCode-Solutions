@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 ## Dynamic Programming
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3146-permutation-difference-between-two-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3731-find-missing-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3731-find-missing-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
