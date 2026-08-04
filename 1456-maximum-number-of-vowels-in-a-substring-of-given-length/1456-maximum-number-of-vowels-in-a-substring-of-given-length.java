@@ -10,14 +10,7 @@ class Solution {
             if(ch=='a' || ch=='e'  || ch=='i' || ch=='o' || ch=='u'){
                 count++;
             }
-            if(right-left+1>k){
-                char c=s.charAt(left);
-                if(c=='a' || c=='e'  || c=='i' || c=='o' || c=='u'){
-                    count--;
-                    
-                }
-                left++;
-            }
+           
             if(right-left+1==k){
                 max=Math.max(max, count);
                 char lc=s.charAt(left);
