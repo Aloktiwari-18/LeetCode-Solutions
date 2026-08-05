@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Tree
@@ -705,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
@@ -726,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1829-maximum-xor-for-each-query/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
