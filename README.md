@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -696,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -714,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
