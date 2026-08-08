@@ -1,15 +1,11 @@
 class Solution {
     public int smallestEqual(int[] nums) {
-        int min=Integer.MAX_VALUE;
+        
         for(int i=0;i<nums.length;i++){
             if(i%10==nums[i]){
-                min=Math.min(i,min);
+               return i;
             }
         }
-        if(min==Integer.MAX_VALUE){
-            return -1;
-        }
-        return min;
-        
+        return -1;
     }
 }
