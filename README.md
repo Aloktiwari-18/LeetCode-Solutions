@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3169-count-days-without-meetings/) | Medium |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -740,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
