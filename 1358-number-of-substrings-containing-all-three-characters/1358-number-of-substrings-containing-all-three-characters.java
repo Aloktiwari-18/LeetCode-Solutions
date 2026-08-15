@@ -1,19 +1,32 @@
 class Solution {
     public int numberOfSubstrings(String s) {
+        int left=0;
+        int right=0;
+        int n=s.length();
         int count=0;
-        int n= s.length();
-        int ans[]= new int[]{-1, -1, -1};
-        for(int i=0;i<s.length();i++){
-            ans[s.charAt(i)-'a']=i;
+        HashMap<Character, Integer> map= new HashMap<>();
 
-            if(ans[0]!=-1 && ans[1]!=-1 && ans[2]!=-1){
-                int min= Math.min(ans[0], Math.min(ans[1], ans[2]));
-                count+=(1+min);
-            }
-            
+        while(right<n){
+            char ch= s.charAt(right);
+                map.put(ch, map.getOrDefault(ch,0)+1);
+                while(map.size()==3){
+                    count+=n-right;
+                    char c=s.charAt(left);
+                    map.put(c, map.get(c)-1);
+                    if(map.get(s.charAt(left))==0){
+                        map.remove(s.charAt(left));
+
+                    }
+                    left++;
+
+                }
+               
+
+                
+                right++;
 
         }
-        return count;
+       return count;
         
     }
 }
