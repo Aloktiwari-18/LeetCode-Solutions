@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
@@ -807,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
