@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2029-stone-game-ix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2029-stone-game-ix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2029-stone-game-ix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -498,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2029-stone-game-ix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -907,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -916,15 +921,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
