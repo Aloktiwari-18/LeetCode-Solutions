@@ -1,27 +1,28 @@
 class Solution {
-    public static void f(int idx, int nums[], List<Integer> temp, List<List<Integer>> ans){
-        if(idx>=nums.length){
-            ans.add(new ArrayList<>(temp));
+    public void solve(int [] nums, int i, List<Integer> subAns, List<List<Integer>> ans){
+        if(i>=nums.length){
+            ans.add(new ArrayList<>(subAns));
             return ;
-
             
         }
-        temp.add(nums[idx]);
-        f(idx+1, nums, temp, ans);
-        temp.remove(temp.size()-1);
-        f(idx+1, nums, temp, ans);
-
-
-    }
     
+    
+            subAns.add(nums[i]);
+            solve(nums, i+1, subAns, ans);
+            subAns.remove(subAns.size()-1);
+            solve(nums, i+1, subAns, ans);
+        
+            
+            
+        
+    }
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans= new ArrayList<>();
-        List<Integer> temp= new ArrayList<>();
+        List<Integer> subAns= new ArrayList<>();
+        
 
-        f(0, nums, temp,ans);
+        solve(nums, 0, subAns, ans);
         return ans;
-
-
         
     }
 }
