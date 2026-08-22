@@ -1,29 +1,34 @@
-import java.util.*;
-
 class Solution {
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> ans = new ArrayList<>();
-        findCombinations(candidates, target, 0, new ArrayList<>(), ans);
-        return ans;
+    public void solve(int [] cand, int i, int sum ,List<Integer> subAns, List<List<Integer>> ans, int target){
+        
+        if(i>=cand.length){
+
+            if(sum==target){
+            ans.add(new ArrayList<>(subAns));
+            
+            
+        }
+        return ;
+        }
+        
+        
+        if(sum<=target){
+            sum+=cand[i];
+            subAns.add(cand[i]);
+            solve(cand, i, sum, subAns, ans, target);
+            sum-=cand[i];
+            subAns.remove(subAns.size()-1);
+
+        }
+        solve(cand, i+1, sum, subAns, ans, target);
+
     }
+    public List<List<Integer>> combinationSum(int[] cand, int target) {
+        List<List<Integer>> ans= new ArrayList<>();
+        List<Integer> subAns= new ArrayList<>();
 
-    private void findCombinations(int[] arr, int target, int idx, List<Integer> ds, List<List<Integer>> ans) {
-        // Base case
-        if (idx == arr.length) {
-            if (target == 0) {
-                ans.add(new ArrayList<>(ds));
-            }
-            return;
-        }
-
-        // Include current element (if possible)
-        if (arr[idx] <= target) {
-            ds.add(arr[idx]);
-            findCombinations(arr, target - arr[idx], idx, ds, ans); // reuse allowed
-            ds.remove(ds.size() - 1); // backtrack
-        }
-
-        // Exclude current element
-        findCombinations(arr, target, idx + 1, ds, ans);
+        solve(cand, 0, 0, subAns, ans, target);
+        return ans;
+        
     }
 }
