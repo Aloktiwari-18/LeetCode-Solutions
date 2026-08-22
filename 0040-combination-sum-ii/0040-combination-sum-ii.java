@@ -1,31 +1,42 @@
-import java.util.*;
-
 class Solution {
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        List<List<Integer>> ans = new ArrayList<>();
-        Arrays.sort(candidates); // ✅ sorting to handle duplicates
-        findCombination(candidates, target, 0, new ArrayList<>(), ans);
-        return ans;
-    }
+    public void solve(int cand[], int idx, int sum, int target,  boolean used[], List<Integer> subAns, List<List<Integer>> ans){
+        
+            if(sum==target){
+                ans.add(new ArrayList<>(subAns));
+                return;
+            }
+            
 
-    private void findCombination(int[] arr, int target, int idx, List<Integer> ds, List<List<Integer>> ans) {
-        // ✅ Base case
-        if (target == 0) {
-            ans.add(new ArrayList<>(ds));
+        
+        if (idx >= cand.length || sum > target) {
             return;
         }
 
-        for (int i = idx; i < arr.length; i++) {
-            // skip duplicates
-            if (i > idx && arr[i] == arr[i - 1]) continue;
+        for(int i=idx;i<cand.length;i++){
+            if(used[i]) continue;
+            if(i>idx && cand[i]==cand[i-1] && !used[i-1]) continue;
+            if(sum+cand[i]>target){
+                break;
+            }
+            sum+=cand[i];
+            used[i]=true;
+            subAns.add(cand[i]);
+            solve(cand, i+1, sum, target, used, subAns, ans);
+            subAns.remove(subAns.size()-1);
+            sum-=cand[i];
+            used[i]=false;
+            }
+    }
+        
+    public List<List<Integer>> combinationSum2(int[] cand, int target) {
+        Arrays.sort(cand);
+        List<List<Integer>> ans= new ArrayList<>();
+        List<Integer> subAns= new ArrayList<>();
+        boolean used[]= new boolean[cand.length];
+        solve(cand, 0, 0, target,used, subAns, ans);
+        
+        return ans;
 
-            // stop if element is greater than remaining target
-            if (arr[i] > target) break;
-
-            // pick current element
-            ds.add(arr[i]);
-            findCombination(arr, target - arr[i], i + 1, ds, ans); // move to next index (no reuse)
-            ds.remove(ds.size() - 1); // backtrack
-        }
+        
     }
 }
