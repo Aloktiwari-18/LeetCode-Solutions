@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1079-letter-tile-possibilities](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1079-letter-tile-possibilities](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
@@ -739,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0473-matchsticks-to-square/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
