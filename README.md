@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0456-132-pattern](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
+| [0473-matchsticks-to-square](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0495-teemo-attacking](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0473-matchsticks-to-square](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -736,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0473-matchsticks-to-square](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0473-matchsticks-to-square/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -805,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0473-matchsticks-to-square](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0832-flipping-an-image](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
@@ -915,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0473-matchsticks-to-square](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 ## Game Theory
