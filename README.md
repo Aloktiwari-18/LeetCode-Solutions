@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -452,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
