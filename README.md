@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -474,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -605,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
