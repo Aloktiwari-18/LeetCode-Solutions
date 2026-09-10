@@ -14,33 +14,33 @@
  * }
  */
 class Solution {
-    int ans=0;
-    public void solve(TreeNode root, int []count, int []add){
+    int count=0;
+    public  void solve(TreeNode root, int add[], int cnt[]){
         if(root==null){
             return ;
         }
-        count[0]++;
+        cnt[0]++;
         add[0]+=root.val;
-        solve(root.left, count, add);
-        
-        solve(root.right, count, add);
+        solve(root.left, add, cnt);
+        solve(root.right,add,cnt);
     }
-    public void check(TreeNode root){
+    public  void check(TreeNode root){
         if(root==null){
             return ;
         }
-        int count[]={0};
-        int add[]= {0};
-        solve(root, count, add);
-        if(root.val== add[0]/count[0]){
-            ans++;
+        int add[]={0};
+        int cnt[]={0};
+        solve(root, add, cnt);
+        if(root.val==add[0]/cnt[0]){
+            count++;
         }
         check(root.left);
         check(root.right);
+
     }
     public int averageOfSubtree(TreeNode root) {
         check(root);
-        return ans;
+        return count;
         
     }
 }
