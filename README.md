@@ -399,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
