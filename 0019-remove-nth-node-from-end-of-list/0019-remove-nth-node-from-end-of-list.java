@@ -36,7 +36,7 @@ class Solution {
             
             
         }
-        return head;
+        return temp;
         
     }
 }
