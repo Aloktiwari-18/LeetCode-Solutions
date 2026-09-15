@@ -25,10 +25,10 @@ class Solution {
         while(!q.isEmpty()){
             int n= q.size();
             
-            List<Integer> lst= new ArrayList<>();
+           TreeNode node= null;
             for(int i=0;i<n;i++){
-               TreeNode node= q.poll();
-               lst.add(node.val);
+               node= q.poll();
+               
 
                 if(node.left!=null){
                     q.add(node.left);
@@ -37,7 +37,7 @@ class Solution {
                     q.add(node.right);
                 }   
             }
-            ans.add(lst.get(lst.size()-1));   
+            ans.add(node.val);   
         }
         return ans;
     }
