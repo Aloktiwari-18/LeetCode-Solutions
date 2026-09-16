@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0986-interval-list-intersections](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -516,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -584,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
