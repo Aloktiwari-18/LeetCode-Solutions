@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0112-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0126-word-ladder-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
@@ -476,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
@@ -509,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
