@@ -14,28 +14,28 @@
  * }
  */
 class Solution {
-    public boolean isCompleteTree(TreeNode root) {
-       
-        Queue<TreeNode> q= new LinkedList<>();
-        q.add(root);
-        boolean past= false;
-
-        while(!q.isEmpty()){  
-        TreeNode node= q.poll();
-                if(node==null){
-                    past=true;
-                }
-                else{
-                if(past==true){
-                    return false;
-                }
-                    q.add(node.left);
-                
-               
-                    q.add(node.right);
-
-                } 
+    
+    public int count(TreeNode root){
+        if(root==null){
+            return 0;
         }
-        return true;
+       
+      return 1+  count(root.left) +
+        count(root.right);
+    }
+
+    public boolean solve(TreeNode root, int idx, int tot){
+        if(root==null){
+            return true;
+        }
+        if(idx>tot){
+            return false;
+        }
+        return solve(root.left, 2*idx, tot) && solve(root.right, 2*idx+1,tot);
+    }
+public boolean isCompleteTree(TreeNode root) {
+       int idx=1;
+       int tot=count(root);
+      return solve(root, idx, tot);
     }
 }
