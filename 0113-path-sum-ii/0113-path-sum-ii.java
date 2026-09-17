@@ -14,30 +14,31 @@
  * }
  */
 class Solution {
-    public void findPath(TreeNode root,int sum,List<Integer> path, List<List<Integer>> ans){
+    public void solve(TreeNode root, int target, List<List<Integer>> ans, List<Integer> sub){
         if(root==null){
-            return ;
-        }
-        sum-=root.val;
-        path.add(root.val);
-        if(root.left==null && root.right==null && sum==0){
-            ans.add(new ArrayList<>(path));
-        }
-        findPath(root.left, sum, path, ans);
-        findPath(root.right, sum, path, ans);
-        // Backtracking
-        path.remove(path.size()-1);
-        return;
+            return;
 
+        }
+        sub.add(root.val);
+
+        target-=root.val;
+
+        if(root.left==null && root.right==null && target==0){
+                ans.add(new ArrayList<>(sub));
+                
+                
+        }
+        solve(root.left, target, ans, sub);
+        solve(root.right,target , ans, sub);
+        sub.remove(sub.size()-1);
 
 
     }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        
         List<List<Integer>> ans= new ArrayList<>();
-        if(root==null) return ans;
+
         
-        findPath(root, targetSum, new ArrayList<>(), ans);
+        solve(root, targetSum, ans,new ArrayList<>());
         return ans;
         
     }
