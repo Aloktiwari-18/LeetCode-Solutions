@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0623-add-one-row-to-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [0623-add-one-row-to-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -488,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [0623-add-one-row-to-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -523,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [0623-add-one-row-to-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
