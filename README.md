@@ -421,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0814-binary-tree-pruning/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0814-binary-tree-pruning/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
