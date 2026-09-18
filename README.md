@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1406-stone-game-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1510-stone-game-iv](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
@@ -516,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
@@ -557,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -1173,6 +1177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
