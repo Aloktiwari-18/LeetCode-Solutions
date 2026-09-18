@@ -421,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -605,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0648-replace-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
