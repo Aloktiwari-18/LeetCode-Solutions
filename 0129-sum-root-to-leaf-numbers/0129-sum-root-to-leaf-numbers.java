@@ -13,25 +13,26 @@
  *     }
  * }
  */
-
 class Solution {
-    int sum=0;
-    public void dfs(TreeNode root,int currSum){
-        if(root==null) return ;
-        currSum=currSum*10+root.val;
-       if(root.left==null && root.right==null){
-        sum+=currSum;
-
-       }
-       dfs(root.left,currSum);
-       dfs(root.right,currSum);
-
-
-       
+    int totsum=0;
+    public void solve(TreeNode root, int sum){
+        if(root==null){
+            return;
+        }
+        sum=sum*10+root.val;
+        if(root.left==null && root.right==null){
+            totsum+=sum;
+        }
+        solve(root.left, sum);
+        solve(root.right, sum);
     }
     public int sumNumbers(TreeNode root) {
-        dfs(root,0);
-        return sum;
+        if(root==null){
+            return 0;
+        }
         
+        solve(root, 0);
+        return totsum;
+
     }
 }
