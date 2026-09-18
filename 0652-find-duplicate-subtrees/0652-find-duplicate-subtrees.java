@@ -14,30 +14,30 @@
  * }
  */
 class Solution {
-
-    HashMap<String, Integer> map = new HashMap<>();
-    List<TreeNode> result = new ArrayList<>();
-
-    public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
-        dfs(root);
-        return result;
-    }
-
-    private String dfs(TreeNode root) {
-        if (root == null) return "#";
-
-        String left = dfs(root.left);
-        String right = dfs(root.right);
-
-        String serial = root.val + "," + left + "," + right;
-
-        map.put(serial, map.getOrDefault(serial, 0) + 1);
-
-        // jab second time mile tab hi add karo
-        if (map.get(serial) == 2) {
-            result.add(root);
+    List<TreeNode> ans= new ArrayList<>();
+    HashMap<String , Integer> map= new HashMap<>();
+    public String solve(TreeNode root){
+         if(root==null){
+            return "#";
         }
+        String left= solve(root.left);
+        String right=solve(root.right);
 
-        return serial;
+        String serial= root.val+ ","+ left+ "," +right;
+         map.put(serial, map.getOrDefault(serial, 0)+1);
+
+         if(map.get(serial)==2){
+            ans.add(root);
+
+         }
+         return serial;
+
+    }
+    public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
+
+        solve(root);
+        return ans;
+
+        
     }
 }
