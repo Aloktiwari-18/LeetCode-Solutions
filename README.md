@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0814-binary-tree-pruning](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [0951-flip-equivalent-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -524,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0814-binary-tree-pruning](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [0951-flip-equivalent-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -574,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0814-binary-tree-pruning](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0951-flip-equivalent-binary-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
