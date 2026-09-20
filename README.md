@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1367-linked-list-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1367-linked-list-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -589,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1367-linked-list-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -807,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1367-linked-list-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
