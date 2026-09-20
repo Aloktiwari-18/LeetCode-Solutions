@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -542,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -588,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Greedy
