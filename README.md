@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -521,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -565,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -637,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -1186,6 +1191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## Bidirectional Search
@@ -1196,10 +1202,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
