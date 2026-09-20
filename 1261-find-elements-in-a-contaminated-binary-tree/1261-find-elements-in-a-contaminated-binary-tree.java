@@ -27,7 +27,7 @@ class FindElements {
     }
 
     public FindElements(TreeNode root) {
-        st.clear();
+       
         solve(root, 0);
 
         
