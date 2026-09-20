@@ -1,22 +1,28 @@
 class Solution {
-    public static int maxRob(int nums[], int start, int end){
-        int prev1=0;
-        int prev2=0;
-
-
-        for(int i= start;i<=end;i++ ){
-            int curr=Math.max(prev2+nums[i], prev1);
-            prev2=prev1;
-            prev1=curr;
+    public int solve(int st, int [] nums, int end, int dp[]){
+        if(st>end){
+            return 0;
         }
-        return prev1;
+        if(dp[st]!=-1){
+            return dp[st];
+        }
+        int take= nums[st]+ solve(st+2, nums, end, dp);
+        int skip= solve(st+1, nums, end, dp);
+        return dp[st]= Math.max(take, skip);
     }
-    
     public int rob(int[] nums) {
+        if(nums.length<2){
+                return nums[0];
+        }
+        if(nums.length==2){
+            return Math.max(nums[0], nums[1]);
+        }
+        int dp1[]= new int[nums.length+1];
+        int dp2[]= new int[nums.length+1];
         int n= nums.length;
-        if(n==1) return nums[0];
-
-        return Math.max(maxRob(nums, 0, n-2),maxRob(nums, 1,n-1));
+        Arrays.fill(dp1, -1);
+        Arrays.fill(dp2, -1);
+        return Math.max(solve(0, nums, n -2, dp1), solve(1, nums, n-1, dp2));
         
     }
 }
