@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2446-determine-if-two-events-have-conflict](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2498-frog-jump-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2498-frog-jump-ii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2498-frog-jump-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2498-frog-jump-ii/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Tree
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2029-stone-game-ix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2498-frog-jump-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2498-frog-jump-ii/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
