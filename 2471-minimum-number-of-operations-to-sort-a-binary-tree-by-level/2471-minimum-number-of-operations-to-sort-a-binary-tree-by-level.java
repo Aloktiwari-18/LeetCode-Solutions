@@ -31,7 +31,7 @@ class Solution {
                 }
             }
 
-            // Minimum swaps for current level
+            
             ans += minSwaps(arr);
         }
 
@@ -39,45 +39,30 @@ class Solution {
     }
 
     public int minSwaps(int[] arr) {
+        int sortArr[]= arr.clone();
+        Arrays.sort(sortArr);
+        int count=0;
 
-        int n = arr.length;
-
-        int[][] pairs = new int[n][2];
-
-        for (int i = 0; i < n; i++) {
-
-            pairs[i][0] = arr[i];
-            pairs[i][1] = i;
+        HashMap<Integer , Integer> map= new HashMap<>();
+        for(int i=0;i<arr.length;i++){
+            map.put(arr[i],i);
         }
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]==sortArr[i]) continue;
+            int idx= map.get(sortArr[i]);
 
-        Arrays.sort(pairs, (a, b) -> a[0] - b[0]);
+            map.put(arr[i],idx);
+            map.put(sortArr[i], i);
 
-        boolean[] visited = new boolean[n];
+            int temp= arr[i];
+            arr[i]= arr[idx];
+            arr[idx]=temp;
+            count++;
 
-        int swaps = 0;
+            
 
-        for (int i = 0; i < n; i++) {
-
-            if (visited[i] || pairs[i][1] == i) {
-                continue;
-            }
-
-            int cycleSize = 0;
-
-            int j = i;
-
-            while (!visited[j]) {
-
-                visited[j] = true;
-
-                j = pairs[j][1];
-
-                cycleSize++;
-            }
-
-            swaps += cycleSize - 1;
         }
-
-        return swaps;
+        return count;
+       
     }
 }
