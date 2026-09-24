@@ -1271,5 +1271,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1092-shortest-common-supersequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
