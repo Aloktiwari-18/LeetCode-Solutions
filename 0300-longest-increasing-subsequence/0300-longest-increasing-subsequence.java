@@ -1,28 +1,26 @@
 class Solution {
-    public int lengthOfLIS(int[] nums) {
-        int n= nums.length;
-        int [] list= new int[n];
-
-        for(int i=0;i<n;i++){
-            list[i]=1;
+    public int solve(int i, int [] nums, int []dp){
+        if(dp[i]!=-1){
+            return dp[i];
         }
-
-        for(int i=1;i<n;i++){
-            for(int j=0;j<i;j++){
-                if(nums[j]<nums[i]){
-                    list[i]=Math.max(list[i], list[j]+1);
-                }
+        int max=1;
+        for(int j=0;j<i;j++){
+            if(nums[i]>nums[j]){
+                max=Math.max(max, 1+solve(j,nums,dp));
             }
         }
-
-        int max=0;
-        for(int i=0;i<n;i++){
-            max=Math.max(max,list[i] );
+        return dp[i]=max;
+    }
+    public int lengthOfLIS(int[] nums) {
+        int dp[]= new int[nums.length+1];
+       
+            Arrays.fill(dp, -1);
+        
+        int ans= Integer.MIN_VALUE;
+        for(int i=0;i<nums.length;i++){
+            ans= Math.max(ans, solve(i, nums, dp));
         }
-        return max;
-
-
-
+    return ans;
         
     }
 }
