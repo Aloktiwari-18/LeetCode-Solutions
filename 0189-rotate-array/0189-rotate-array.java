@@ -1,25 +1,25 @@
 class Solution {
+    public void rot(int [] nums, int i, int j){
+        
+        while(i<=j){
+            int temp=nums[i];
+            nums[i]=nums[j];
+            nums[j]=temp;
+            i++;
+            j--;
+        }
+    }
     public void rotate(int[] nums, int k) {
-        Stack<Integer> st1= new Stack<>();
-                Stack<Integer> st2= new Stack<>();
 
-        int n= nums.length;
+        
+        int n=nums.length;
+
         k=k%n;
-        for(int i=n-1;i>=0;i--){
-            if(i>=n-k) st1.push(nums[i]);
-            else st2.push(nums[i]);
-
-        }
-        // nums[]= new int[n];
-        int i=0;
-        while(st1.size()!=0){
-            nums[i++]= st1.pop();
-            
-        }
-        while(st2.size()!=0){
-            nums[i++]=st2.pop();
-        }
-
+        
+        rot(nums, 0, n-1);
+        
+        rot(nums, 0,k-1);
+        rot(nums, k, n-1);
         
     }
 }
