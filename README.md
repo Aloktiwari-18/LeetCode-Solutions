@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0986-interval-list-intersections](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
