@@ -1,41 +1,42 @@
 class Solution {
-    
-        public static int getDays(int[] weights, int capacity) {
-        int days = 1;
-        int load = 0;
-
-        for (int w : weights) {
-            if (load + w > capacity) {
-                days++;
-                load = 0;
+    public int solve(int cap, int[] w){
+        int day=1;
+        int sum=0;
+        for(int ele: w){
+            sum+=ele;
+            if(sum>cap){
+                day++;
+                sum=0;
+                sum+=ele;
             }
-            load += w;
+            
+
         }
-        return days;
+        return day;
     }
-    
-    public int shipWithinDays(int[] weights, int days) {
-        int left=0;
-        int right=0;
-        for(int i=0;i<weights.length;i++){
-            right+=weights[i];
-            left=Math.max(left,weights[i]);
+    public int shipWithinDays(int[] w, int days) {
+        int sum=0;
+        int low=0;
+        for(int ele: w){
+            low=Math.max(low, ele);
+            sum+=ele;
+
         }
         
-        int ans=right;
-        while(left<=right){
-            int mid=(left+right)/2;
-            int minDays=getDays(weights,mid);
-            if(minDays<=days){
+        int high=sum;
+        int ans=sum;
+        while(low<=high){
+            int mid= low+(high-low)/2;
+            if(solve(mid, w)<=days){
                 ans=mid;
-                right=mid-1;
-
+                high=mid-1;
             }else{
-                left=mid+1;
+                low= mid+1;
             }
-
         }
         return ans;
+
+
         
     }
 }
