@@ -5,7 +5,7 @@ class Solution {
         int right=0;
         int maxFreq=0;
         int maxLen=Integer.MIN_VALUE;
-        int hash[]=new int[256];
+        int hash[]=new int[26];
         while(right<s.length()){
             hash[s.charAt(right)-'A']++;
             maxFreq=Math.max(maxFreq, hash[s.charAt(right)-'A']);
@@ -13,7 +13,7 @@ class Solution {
             while((right-left+1)- maxFreq>k){
                 hash[s.charAt(left)-'A']--;
                 maxFreq=0;
-                for(int i=0;i<255;i++){
+                for(int i=0;i<25;i++){
                     maxFreq= Math.max(maxFreq, hash[i]);
                 }
                 left++;
