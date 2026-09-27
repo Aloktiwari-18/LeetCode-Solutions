@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0342-power-of-four](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
@@ -792,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
