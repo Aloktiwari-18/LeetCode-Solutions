@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-xor-operation-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1510-stone-game-iv](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
@@ -821,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
