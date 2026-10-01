@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1046-last-stone-weight](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -1132,6 +1133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0912-sort-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
