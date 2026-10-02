@@ -1,47 +1,36 @@
 class Solution {
-    public boolean subset(int i, int [] nums, int target, int [][] dp){
-        if(i==nums.length){
-            if(target==0){
-                return true;
-            }else return false;
+    public int solve(int idx, int [] nums, int sum, int [][] dp){
+        if(sum==0){
+            return 0;
         }
-        if(dp[i][target]!=-1) return (dp[i][target]==1);
-        boolean skip= subset(i+1, nums, target, dp);
-        boolean ans= false;
-        if(target-nums[i]<0){
-            ans= skip;
-        }else{
-            boolean pick= subset(i+1, nums, target-nums[i],dp);
-            ans=pick | skip;
+        if(idx>=nums.length || sum<0){
+            return Integer.MAX_VALUE;
         }
-        if(ans){
-            dp[i][target]=1;
+        if(dp[idx][sum]!=-1){
+            return dp[idx][sum];
 
-        }else{
-            dp[i][target]=0;
         }
-        return ans;
+        int take= solve(idx+1, nums, sum-nums[idx], dp);
+        int skip= solve(idx+1, nums, sum, dp);
+        return dp[idx][sum]=Math.min(take, skip);
     }
     public boolean canPartition(int[] nums) {
-        int sum=0;
-        for(int ele:nums){
-            sum+=ele;
+        int tot=0;
+        for(int ele: nums){
+            tot+=ele;
         }
-        if(sum%2!=0){
+        if(tot%2!=0){
             return false;
         }
-        int N= nums.length;
-
-        int target= sum/2;
-        int dp[][]= new int [N][target+1];
-
-        for(int i=0;i<N;i++){
-            for(int j=0;j<dp[0].length;j++){
-                dp[i][j]= -1;
-            }
+         int sum=tot/2;
+        int dp[][]= new int[nums.length+1][sum+1];
+        for(int [] e:dp){
+            Arrays.fill(e, -1);
         }
-        return subset(0,nums,target,dp);
-
+       
+        int ans= solve(0, nums, sum, dp);
+        return ans==Integer.MAX_VALUE ? false: true;
+        
 
         
     }
