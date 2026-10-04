@@ -950,6 +950,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0585-investments-in-2016](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0585-investments-in-2016/) | Medium |
+| [0595-big-countries](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
