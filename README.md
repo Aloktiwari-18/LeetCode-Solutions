@@ -976,6 +976,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1251-average-selling-price](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1321-restaurant-growth](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1341-movie-rating/) | Medium |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
