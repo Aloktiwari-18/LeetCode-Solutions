@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
@@ -832,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -1349,6 +1351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
