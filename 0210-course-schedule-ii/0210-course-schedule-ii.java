@@ -4,49 +4,48 @@ class Solution {
         for(int i=0;i<numCourses;i++){
             adj.add(new ArrayList<>());
         }
-
-        for(int i=0;i<prerequisites.length;i++){
-            int a= prerequisites[i][0];
-            int b= prerequisites[i][1];
-
+        for(int [] pre: prerequisites){
+            int a= pre[0];
+            int b=pre[1];
             adj.get(b).add(a);
         }
-        int indegree[]= new int[numCourses];
+        int indeg[]= new int[numCourses];
         for(int i=0;i<numCourses;i++){
-            for(int it:adj.get(i)){
-                indegree[it]++;
+            for(int it: adj.get(i)){
+                indeg[it]++;
             }
         }
-        ArrayList<Integer> ans= new ArrayList<>();
         Queue<Integer> q= new LinkedList<>();
-        for(int i=0;i<numCourses;i++){
-            if(indegree[i]==0){
-                ans.add(i);
+        int count=0;
+       ArrayList<Integer> ans=  new ArrayList<>();
+        for(int i=0;i<indeg.length;i++){
+            if(indeg[i]==0){
+               ans.add(i);
                 q.add(i);
-                
             }
         }
+
         while(!q.isEmpty()){
             int node= q.poll();
+            count++;
+            
             for(int it: adj.get(node)){
-                indegree[it]--;
-                if(indegree[it]==0){
+                indeg[it]--;
+                if(indeg[it]==0){
                     ans.add(it);
                     q.add(it);
                 }
+                
             }
-
         }
         if(ans.size() != numCourses){
             return new int[0];
         }
-        int result[]= new int[numCourses];
-        for(int i=0;i<result.length;i++){
-            result[i]= ans.get(i);
-        }
-        return result;
-
-
+       int[] arr = new int[ans.size()];
+        for (int i = 0; i < ans.size(); i++) {
+            arr[i] = ans.get(i);
+        } 
+        return arr;  
         
     }
 }
