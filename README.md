@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -1027,6 +1029,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
@@ -1384,6 +1387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
