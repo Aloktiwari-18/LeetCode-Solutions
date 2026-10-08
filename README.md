@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -847,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0901-online-stock-span](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -1369,6 +1371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
