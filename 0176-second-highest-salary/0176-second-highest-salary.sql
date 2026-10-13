@@ -1,6 +1,12 @@
 # Write your MySQL query statement below
-with filtered as (
-    Select max(salary) as max_salary from Employee
-)
-Select max(salary)  as SecondHighestSalary from Employee
-where salary < (Select max_salary from filtered  )
+SELECT IFNULL(
+    (SELECT salary
+     FROM (
+         SELECT salary, DENSE_RANK() OVER (ORDER BY salary DESC) AS rnk
+         FROM Employee
+     ) filtered
+     WHERE rnk = 2
+     LIMIT 1
+    ),
+    NULL
+) AS SecondHighestSalary;   
