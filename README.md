@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0821-shortest-distance-to-a-character](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0763-partition-labels](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
+| [0821-shortest-distance-to-a-character](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
