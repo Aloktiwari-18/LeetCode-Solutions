@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0832-flipping-an-image](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1089-duplicate-zeros/) | Easy |
@@ -827,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
