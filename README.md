@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-count-integers-with-even-digit-sum](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2183-count-array-pairs-divisible-by-k/) | Hard |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
