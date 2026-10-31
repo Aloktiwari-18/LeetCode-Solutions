@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -1074,6 +1076,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
