@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0648-replace-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0763-partition-labels](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
@@ -560,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0456-132-pattern](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -843,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -1119,6 +1123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -1227,6 +1232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0912-sort-an-array](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
