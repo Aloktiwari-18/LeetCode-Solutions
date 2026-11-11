@@ -479,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -728,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
