@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3903-smallest-stable-index-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3693-climbing-stairs-ii](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -734,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aloktiwari-18/LeetCode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
